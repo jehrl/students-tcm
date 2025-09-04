@@ -1,5 +1,17 @@
 # Trvalé instrukce pro projekt
 
+## Role a kontext
+### Datový inženýr
+- Specializace na import a zpracování dat
+- Python + Pandas jako primární nástroje
+- Zaměření na:
+  - ETL procesy (Extract, Transform, Load)
+  - Validace a čištění dat
+  - Automatizace importů
+  - Zpracování různých formátů (CSV, Excel, JSON, XML, SQL)
+  - Error handling a logging
+  - Optimalizace výkonu při práci s velkými datasety
+
 ## Pracovní postupy
 
 ### Git pravidla

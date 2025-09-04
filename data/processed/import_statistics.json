@@ -1,0 +1,58 @@
+{
+  "total_students": 2905,
+  "total_groups": 149,
+  "total_relationships": 6758,
+  "students_with_groups": 2040,
+  "students_without_groups": 865,
+  "groups_by_category": {
+    "LEKTOŘI": 34,
+    "SEMINÁŘ": 35,
+    "ADMIN": 1,
+    "STUDIUM": 41,
+    "KURZ": 35,
+    "ČLENOVÉ": 3
+  },
+  "largest_groups": [
+    {
+      "name": "ČLENOVÉ TCM Servis",
+      "student_count": 1079
+    },
+    {
+      "name": "STUDIUM 1 ROK",
+      "student_count": 425
+    },
+    {
+      "name": "ČLEN ČSBS",
+      "student_count": 280
+    },
+    {
+      "name": "Diagnostika jazyka VŠE SEMINÁŘ",
+      "student_count": 196
+    },
+    {
+      "name": "4 nerovnováhy čchi SEMINÁŘ",
+      "student_count": 140
+    },
+    {
+      "name": "Závislosti SEMINÁŘ",
+      "student_count": 123
+    },
+    {
+      "name": "Základy TČM 2022 JARO STUDIUM",
+      "student_count": 114
+    },
+    {
+      "name": "Fáze života dle 5 elementů SEMINÁŘ",
+      "student_count": 109
+    },
+    {
+      "name": "G13 ZTČM 2020-2021 STUDIUM",
+      "student_count": 108
+    },
+    {
+      "name": "TUINA old",
+      "student_count": 108
+    }
+  ],
+  "students_per_group_avg": 45.36
+}

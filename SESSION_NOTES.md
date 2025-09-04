@@ -42,7 +42,23 @@
 - `data/processed/student_groups.json` - 6758 vztahů
 - CSV verze všech souborů
 
+### Porovnání s kontakty.csv
+- **Analyzován soubor kontakty.csv:**
+  - 686 záznamů celkem
+  - 664 unikátních emailů
+  - 104 sloupců s detailními informacemi o studentech
+  
+- **Výsledky porovnání:**
+  - 647 emailů je v obou souborech
+  - **17 nových kontaktů chybí v databázi** ⚠️
+  - 2258 emailů je pouze v naší databázi (ne v kontakty.csv)
+  
+- **Chybějící kontakty exportovány do:**
+  - `data/processed/missing_contacts.json`
+  - `data/processed/missing_contacts.csv`
+
 ### Další kroky
+- Import 17 chybějících kontaktů do databáze
 - Vyřešit problém s roky ve skupinách
 - Zpracovat list addresses
 - Vytvořit SQL databázové schéma
